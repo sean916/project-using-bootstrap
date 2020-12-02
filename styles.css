@@ -1,0 +1,72 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+img {
+    max-width: 100%;
+    max-height: 70%;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 12px;
+}
+
+.top h2 {
+  font-size: 22px;
+}
+.top p {
+  font-size: 14px;
+}
+.featured p {
+  font-size: 14px;
+}
+.featured h2 {
+  font-size: 20px;
+}
+
+.muted {
+    color: gray;
+    font-weight: bold;
+}
+
+.featured:hover, .top:hover, .turn:hover, .story:hover, .media:hover {
+  opacity: .5;
+}
+
+.turn h2 {
+  font-size: 14px;
+}
+
+.media-body h2 {
+  font-size: 16px;
+}
+.media-body p {
+  font-size: 14px;
+}
+
+footer li {
+  font-size: 12px;
+  padding: 0px 10px;
+  margin-bottom: 5px;
+  color: gray;
+}
+
+footer li:hover {
+  opacity: .5;
+}
